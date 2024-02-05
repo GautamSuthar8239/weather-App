@@ -26,7 +26,7 @@ WeatherHub is a straightforward weather web application that allows users to che
 
 ## Project Structure
 
-- `app.py`: Main application file containing Flask routes and logic.
+- `weather.py`: Main application file containing Flask routes and logic.
 - `templates/`: HTML templates for the frontend.
 - `static/styles`: Static files such as CSS and JavaScript.
 
